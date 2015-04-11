@@ -475,8 +475,7 @@ h1 img{
   margin-right: 10px;
 }
 input[type="radio"]{
-    float: left;
-   width: auto;
-   margin-left: 3em;
-   }
+  float: left;
+  width: auto;
+  margin-left: none;
 }
